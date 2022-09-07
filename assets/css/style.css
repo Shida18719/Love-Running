@@ -264,7 +264,40 @@ footer {
 .signup-form h2 {
     color: #fafafa;
     margin-bottom: 20px;
-}    
+}  
+
+/* Text input field*/
+.text-input {
+    background: transparent;
+    color: #fafafa;
+    width: 100%;
+    height: 25px;
+    margin: 5px 20px;
+    border: 1px solid #fafafa;
+    border-radius: 2px;
+}
+
+.text-input a:hover {
+    color: #f16c6b;
+}
+
+ .join-button {
+     margin-top: 20px;
+     border-radius: 2px;
+     padding: 15px 32px 15px 32px;
+     text-align: center;
+     font-size: 100%;
+     background-color: #f16c6b;
+     display: block; 
+ } 
+
+ .join-button a:hover {
+    background-color: #fafafa;
+    color: #f16c6b;
+}
+
+
+
 
 /* Media Queries*/
 
