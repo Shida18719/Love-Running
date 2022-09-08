@@ -277,7 +277,7 @@ footer {
     border-radius: 2px;
 }
 
-.text-input a:hover {
+.text-input:hover {
     color: #f16c6b;
 }
 
@@ -288,10 +288,11 @@ footer {
      text-align: center;
      font-size: 100%;
      background-color: #f16c6b;
+     color: #fafafa;
      display: block; 
  } 
 
- .join-button a:hover {
+ .join-button:hover {
     background-color: #fafafa;
     color: #f16c6b;
 }
